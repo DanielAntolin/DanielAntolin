@@ -1,31 +1,53 @@
 # Hi, I'm Daniel Antolin! 👋
-I am a passionate Spanish developer who enjoys creating projects such as REST APIs with Java or Python, Java applications for Android, and cross-platform programs with .NET MAUI.
+
+I'm a Spanish software developer passionate about building efficient, high-performance applications. I enjoy creating REST APIs with Java and Python, Android applications, and cross-platform solutions with .NET MAUI.
+
+With a strong interest in efficiency and performance, I’m especially motivated by understanding how things work under the hood — from operating systems and low-level resource management to software architecture. My profile combines the technical precision of C++ and Assembly-oriented thinking with the versatility of modern frameworks like .NET MAUI.
+
 ## 🚀 About Me
-👨‍💻 Working as:  
-Junior Lua Developer
 
-
-
+👨‍💻 Currently working as:
+**Junior Lua Developer**
 
 ## 🛠 Skills
 
-**Languages**  
-- C#, Java, C++, Lua, Yabasic, Python, PL/SQL  
+### Languages
+- C#
+- Java
+- C++
+- Lua
+- Yabasic
+- Python
+- PL/SQL
 
-**Web Development**  
-- HTML, CSS, XML, JSON  
+### Web Development
+- HTML
+- CSS
+- XML
+- JSON
 
-**Frameworks**  
-- .NET Core, Spring Boot  
+### Frameworks
+- .NET Core
+- Spring Boot
+- .NET MAUI
 
-**Databases**  
-- SQL Server, PostgreSQL, MySQL  
+### Databases
+- SQL Server
+- PostgreSQL
+- MySQL
 
-**Technologies**  
-- OAuth 2.0, JWT Token, Swagger UI  
+### Technologies
+- OAuth 2.0
+- JWT
+- Swagger UI
+- REST APIs
 
-**Tools**  
-- Postman, Visual Studio, VS Code, Android Studio, NetBeans, Ztool  
+### Tools
+- Postman
+- Visual Studio
+- VS Code
+- Android Studio
+- NetBea
 
 
 
